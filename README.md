@@ -18,11 +18,20 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-  
 </p>
 
-## 🚀 Skills
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Mustiartt01&show_icons=true&count_private=true&theme=dark" width="400"></a>
+</p>
 
+## Education
+
+- 📖 **Software Engineer**\
+📆 2020 - ~
+
+ 📍 **Beykoz University** - İstanbul, Turkey
+
+## Experience
 ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -32,6 +41,8 @@
 ![.Net Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Sql Badge](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+
 
 
 
