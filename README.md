@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-/github/followers/:user?label=Follow
-
 <!--
 **Mustiartt01/Mustiartt01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
