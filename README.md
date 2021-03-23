@@ -1,3 +1,26 @@
+<h1 align = 'center'>
+  Hi there 👋 I'm Mustafa 
+ </h1>
+ 
+ <p align='center'>
+   A .net developer from Konya, Turkey.
+</p>
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/mustafa-ceylan-514970161//">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/mustiartt">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+    <a href="https://twitter.com/mustiartt">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+  
+</p>
+
 ## 🚀 Skills
 
 ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -11,14 +34,6 @@
 ![Sql Badge](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 
-
-
-
-## 📱 Contact
-
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mustiartt) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mustiartt)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-ceylan-514970161/)
 
 <!--
 **Mustiartt01/Mustiartt01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
